@@ -1,6 +1,6 @@
-title: Introduction to Search/Screen
-description: Get Started with Searching/Screening!
-modules: [Who we are,Getting Started, Design Search, Screening ]
+title: Report Your Findings
+description: Get Started with Reporting Your Findings
+modules: [Who We Are,Title + Abstract, Introduction, Methods, Results, Discussion]
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
  
