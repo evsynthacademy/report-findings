@@ -1,21 +1,23 @@
 ---
-  title: " Identify databases"
+  title: "Begin at the Beginning"
 ---
 
-##  Identify databases
+##  Begin at the Beginning
 
-Before you can search for studies related to your research question, you need to know where to look.  So, spend some time identifying the databases and other sources that might have the information you need.
+You’ve been spending months, or perhaps years, on your research, so it’s easy to forget that your reader doesn’t know as much as you do. Beware of writing an introduction that jumps straight into the details without explaining why your research matters.
+
+A successful introduction takes a step back, explaining the context for the research and why it’s important. When you’re writing your introduction, think about how you’d explain your topic to a friend or a family member, not a member of your team.
+
+You can do that by breaking your introduction into four parts or “statements”:
 <br>
-At the Center for Evidence Synthesis in Health, we’re interested in research related to medical or health questions, so our go-to databases come from the world of medicine. If your systematic review is about a different academic discipline, you can probably name the major databases in your field. If not, a librarian can help you find them.
-<br>
-For any systematic review related to health, here are the databases you MUST search:
-<br>
-- **MEDLINE** <br>Medline is a database of biomedical journal abstracts and citations from around the world. You can access Medline for free using PubMed. In some cases you’ll be able to access full text articles as well as abstracts.<br>
-- **Cochrane Library** <br>The Cochrane Library contains the most extensive database of systematic reviews, as well as a curated list of clinical trials. You’ll want to use this resource to see if other researchers have conducted systematic reviews about a topic related to your questions. It can also be used to find high quality trials on most medical topics.<br>
-The following are subscription databases that are worth searching if you can access them.<br>
-- **Embase** <br>Embase is also a database of biomedical research. You’ll want to use Embase as well as MEDLINE because Embase includes some international journals and publications that MEDLINE does not.<br>
-- **PsycINFO** <br>A database of abstracts and citations for behavioral and social science research. <br>
-- **CINAHL**<br>A database for research related to nursing and allied health professionals.
-<br>
-<br>
-As always, your librarian will help you identify the best databases for your research questions and may be able to help you access ones that require a subscription. But he or she will also remind you that it’s not enough to search for published, academic  studies. You’ll also want to look for “Gray Literature.”
+<ol>
+<li>**Background statement** <br>Give some context for understanding the problem and your research approach</li>
+
+<li>**Problem statement** <br>Describe the nature, scope, severity, or importance of the problem that motivated you to conduct the research</li>
+
+<li> **Activity statement** <br>Talk about your research question, hypothesis, and the approach you took to answer that question.</li>
+
+<li> **Forecasting statement** <br>Tell the readers what they will find if they continue to read your report.</li>
+</ol>
+
+On the next page, we’ll use these elements to build a compelling introduction.
