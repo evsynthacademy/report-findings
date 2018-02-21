@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /search-screen
+baseurl: /report-findings
 markdown: kramdown
 permalink: /:categories/:title/
 
