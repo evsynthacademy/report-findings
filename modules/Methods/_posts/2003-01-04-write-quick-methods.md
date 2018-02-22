@@ -1,9 +1,11 @@
 ---
-  title: "Abstract"
+  title: "Write a Quick Methods Section"
 ---
 
-## Abstract
+## Write a Quick Methods Section
 
-Your abstract is similar to your title. Readers will use it to decide whether they should read the full article. 
+You won’t have time to write a complete methods section here, but you can start the process by filling in some key information for each common subheading:
 
-Your abstract should also stand alone, but that doesn't mean it needs to include every element of your study. Because of word limits, you won’t have enough space to prove the validity of your research, just enough to explain the basics of what you set out to do, what you did, and what you discovered. 
+## GOOGLE FORM HERE
+
+Do you have a rough idea of the content for your methods section? Great, let’s move on to the results.
