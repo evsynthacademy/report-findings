@@ -1,15 +1,34 @@
 ---
-  title: "What to do First"
+  title: "Use Descriptive Figure Captions"
 ---
 
-## What to do First
+## Use Descriptive Figure Captions
 
-You might be overwhelmed by the idea of describing your entire research process in just a few hundred words. If you’re not sure where to start, write the rest of your report first, and then use the abstract to summarize what you wrote. 
+Take a look at this picture:
 
-On the other hand, if you’re having trouble writing your report, you can write the abstract first to center your thoughts and clarify the main elements of your research. 
+<center>
+<img src="{{site.baseurl}}/img/fish.png">
+</center>
 
-Whatever approach you take, remember that your abstract is only meant to highlight the key points of your report.  Don’t try to describe every aspect of your research, just the most important parts.
+Is it a picture of:
 
-Most abstracts have a character limit, but don’t tie yourself down to these limits at first. Write the best abstract you can and then look for ways to cut out unnecessary words until you’ve reached the right length. 
+<ul style="list-style-type:none">
+<li>A. A Fish</li>
+<li>B. A Fish</li>
+<li>C. A Fish</li>
+</ul>
 
-We’ll talk more about abstract length and format requirements on the next page. 
+
+If you guessed fish, you’re right!  Did you need a figure caption to tell you it was a fish? I don’t think so. That’s why a figure caption like this one isn’t very helpful:
+
+<center>
+<img src="{{site.baseurl}}/img/homer.png"><br>
+<b>An x-ray of a cartoon character's brain.</b>
+</center>
+
+This caption just tells you what you can already see- this is an x-ray of a cartoon character. It doesn’t offer any new information. When you’re writing your figure captions, try to add useful descriptions. Here’s another try at describing the same figure:
+
+<center>
+<img src="{{site.baseurl}}/img/homer.png"><br>
+<b>A 27-year-old male cartoon character with microcephaly.</b>
+</center>
