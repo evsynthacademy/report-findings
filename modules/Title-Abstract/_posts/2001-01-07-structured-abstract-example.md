@@ -7,7 +7,7 @@
 
 Here is the structured abstract for a systematic review that compared treatment strategies for renal artery stenosis (<a href = "http://evsynthacademy.org/Intro-Evidence-Synthesis/modules/using%20systematic%20reviews/ras/">you might remember this topic from our intro course</a>). 
 
-<center><h3>**Comparative Effectiveness of Management Strategies for Renal Artery Stenosis: An Updated Systematic Review**</h3></center>
+<center><h3><b>Comparative Effectiveness of Management Strategies for Renal Artery Stenosis: An Updated Systematic Review</b></h3></center>
 
 
 - **Background:**<br>
