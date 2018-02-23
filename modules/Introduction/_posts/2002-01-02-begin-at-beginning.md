@@ -11,13 +11,13 @@ A successful introduction takes a step back, explaining the context for the rese
 You can do that by breaking your introduction into four parts or “statements”:
 <br>
 <ol>
-<li>**Background statement** <br>Give some context for understanding the problem and your research approach</li>
+<li><b>Background statement</b><br>Give some context for understanding the problem and your research approach</li>
 
-<li>**Problem statement** <br>Describe the nature, scope, severity, or importance of the problem that motivated you to conduct the research</li>
+<li><b>Problem statement</b><br>Describe the nature, scope, severity, or importance of the problem that motivated you to conduct the research</li>
 
-<li> **Activity statement** <br>Talk about your research question, hypothesis, and the approach you took to answer that question.</li>
+<li><b>Activity statement</b><br>Talk about your research question, hypothesis, and the approach you took to answer that question.</li>
 
-<li> **Forecasting statement** <br>Tell the readers what they will find if they continue to read your report.</li>
+<li><b>Forecasting statement</b><br>Tell the readers what they will find if they continue to read your report.</li>
 </ol>
 
 On the next page, we’ll use these elements to build a compelling introduction.
