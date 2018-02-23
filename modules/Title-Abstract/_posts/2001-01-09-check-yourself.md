@@ -18,3 +18,11 @@ And as many as 65% of abstracts include information that is inconsistent with th
 This is another reason to double and triple check your work. Make sure your abstract agrees with all of the facts in your full report and consider asking a friend or colleague to look at your abstract with “fresh eyes” to make sure you’re not missing something. 
 
 Now, let’s move on to writing your introduction. 
+
+<div class="pagination-section" style="text-align: right">
+			<div class="title">
+				Next module:
+			</div>
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/introduction/introduction/"> {{ next }} INTRODUCTION
+			</a>
+		</div>
