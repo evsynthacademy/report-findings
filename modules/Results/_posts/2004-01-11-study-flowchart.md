@@ -1,20 +1,18 @@
 ---
-  title: "Check Yourself"
+  title: "The Study Flowchart"
 ---
 
-## Check Yourself
+## The Study Flowchart
 
-You might think researchers are extremely careful when they write their abstracts. Unfortunately, the data show there’s a lot of room for improvement. A range of researchers have taken a look at the quality of published abstracts, and they’ve found a lot of problems. According to that body of research: 
 
-As many as 80% of abstracts are missing key information on topics such as:
+The study flowchart is basically a visual representation of your searching and screening process. This is where you show how you took a large pile of evidence and whittled it down to the most relevant literature. 
 
-- Outcomes
-- Study design
-- Interventions
-- Comparison groups
+If you remember from earlier in the course, PRISMA stands for Preferred Reporting Items for Systematic Reviews and Meta-Analyses. The study flowchart was put forward by the PRISMA committee that revised the set of standards for reporting systematic reviews. It’s now one of the required elements for any published systematic review.
 
-And as many as 65% of abstracts include information that is inconsistent with the full article, misrepresenting everything from the sample size to the results and conclusion. 
+The study flowchart starts with the number of articles you found in your initial search (and any gray literature you found using other techniques) and then describes how many were removed through the screening and analysis process. 
 
-This is another reason to double and triple check your work. Make sure your abstract agrees with all of the facts in your full report and consider asking a friend or colleague to look at your abstract with “fresh eyes” to make sure you’re not missing something. 
+Below is a blank study flowchart that you can use as a model for your systematic review.<br>
 
-Now, let’s move on to writing your introduction. 
+<center>
+<img src="{{site.baseurl}}/img/flowchart.png">
+</center>

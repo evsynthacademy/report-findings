@@ -1,14 +1,10 @@
 ---
-  title: "Build Your Abstract"
+  title: "Be Careful About the Word 'Significant'"
 ---
 
-## Build Your Abstract
+## Be Careful About the Word 'Significant'
 
-Now that you’ve seen an example of a typical abstract, try writing your own. 
 
-In this case, don’t worry about the author instructions for any particular publication. Just fill in the blanks to get started. 
+The word “significant” has a particular technical meaning in research studies. You should only use it to to describe findings that are “statistically significant.”  
 
-##ADD GOOGLE FORM HERE##
-
-Now that you’ve written a draft of your abstract, let’s talk about typical abstract mistakes and how to prevent them.
-
+If you want to talk about <u>importance</ul>, use other words, such as “marked” or “substantial.”
