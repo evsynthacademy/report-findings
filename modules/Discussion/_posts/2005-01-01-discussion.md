@@ -11,12 +11,12 @@ In other words, the purpose of your discussion is to explain the nature and impo
 How? Just follow these steps:
 
 
-<b>Summarize</b><br>Summarize the study and the main results</li><br>
+<b>Summarize</b><br>Summarize the study and the main results<br>
 
-<b>Interpret</b><br>Interpret the results and suggest an explanation for them</li><br>
+<b>Interpret</b><br>Interpret the results and suggest an explanation for them<br>
 
-<b>Compare</b><br>Compare the results with what else is known about the problem (this might involve referencing earlier systematic reviews)</li><br>
+<b>Compare</b><br>Compare the results with what else is known about the problem (this might involve referencing earlier systematic reviews)<br>
 
-<b>Generalize</b><br>Generalize the results to other populations or diseases if possible</li><br>
+<b>Generalize</b><br>Generalize the results to other populations or diseases if possible<br>
 
 <b>Speculate</b><br>Speculate about the implications of your results on the health care delivery system
