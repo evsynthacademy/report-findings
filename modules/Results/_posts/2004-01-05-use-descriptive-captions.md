@@ -4,8 +4,9 @@
 
 ## Use Descriptive Figure Captions
 
+
 Take a look at this picture:
-<br>
+<br><br>
 <center>
 <img src="{{site.baseurl}}/img/fish.png">
 </center>

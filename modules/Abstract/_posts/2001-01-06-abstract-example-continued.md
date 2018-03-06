@@ -1,8 +1,8 @@
 ---
-  title: "Structured Abstract Example Continued"
+  title: "Example Continued"
 ---
 
-## Structured Abstract Example Continued
+## Example Continued
 
 - **Data Synthesis:**<br>
 Eighty-three studies met eligibility criteria. In 5 of 7 RCTs, PTRAS and medical therapy led to similar BP control in patients with ARAS, and no RCTs showed statistically significant differences in kidney function, mortality, RRT, cardiovascular events, or pulmonary edema.
