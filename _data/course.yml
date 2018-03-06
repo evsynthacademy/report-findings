@@ -1,6 +1,6 @@
 title: Report Your Findings
 description: Get Started with Reporting Your Findings
-modules: [Who we are,Getting Started,Title-Abstract, Introduction, Methods, Results, Discussion]
+modules: [Who we are,Getting Started,Title, Abstract, Introduction, Methods, Results, Discussion]
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
  
