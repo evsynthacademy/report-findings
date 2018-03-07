@@ -3,14 +3,13 @@
 ---
 
 ##  Activity + Forecasting Statements
-<br>
-<h3>Activity statement</h3><br>
-<center>What did you do to address this problem?</center>
+
+<h3>Activity statement</h3>
+<center>What did you do to address this problem?</center><br>
 <br>
 <i>This systematic review searches for and reevaluates all existing evidence regarding the range of treatment approaches for ARAS.</i>
 <br>
 <h3>Forecasting statement</h3>
-<br>
-<center>What will you talk about in this paper?</center>
+<center>What will you talk about in this paper?</center><br>
 <br>
 <i>This systematic review examines the comparative benefits and harms of strategies for managing ARAS and identifies factors that may predict which patients are most likely to benefit from each intervention.</i>
