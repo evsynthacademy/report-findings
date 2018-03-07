@@ -8,7 +8,7 @@ This course will walk you through each element of a standard, publishable report
 
 
 **1. Follow instructions**<br>
-Do you know the number one reason academic journals reject submissions for publication? The authors didn’t follow instructions. Every journal has a set of “instructions for authors” detailing everything from reference formatting to how to number your tables and charts. Here’s an example from JAMA. Be sure to find these instructions and follow them as you structure your report. And of course, if you are rejected by one journal and submit to another publication, be sure to reformat your paper to reflect the new instructions.
+Do you know the number one reason academic journals reject submissions for publication? The authors didn’t follow instructions. Every journal has a set of “instructions for authors” detailing everything from reference formatting to how to number your tables and charts. Here’s an example from JAMA. Be sure to find these instructions and follow them as you structure your report. And of course, if you are rejected by one journal and submit to another journal, be sure to reformat your paper to reflect the new instructions.
 
 **2. Establish authorship in advance**<br>
 Who counts as an author of your report? It’s best to establish your official authors BEFORE you start writing. The true purpose of authorship is to assign credit and responsibility. You should only list people as authors if they actually contributed to the research and the writing of the report. If you agree on who is and is not an author in advance, you can avoid an awkward conversation later on in the process.
