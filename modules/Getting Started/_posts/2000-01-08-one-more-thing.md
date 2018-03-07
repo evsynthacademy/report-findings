@@ -1,5 +1,5 @@
 ---
-  title: "One More Thing""
+  title: "One More Thing"
 ---
 
 ## One More Thing to Keep in Mind
