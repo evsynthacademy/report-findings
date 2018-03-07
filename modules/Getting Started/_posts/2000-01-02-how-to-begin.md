@@ -14,4 +14,4 @@ This course will walk you through each element of a standard, publishable report
 <li>Read the PRISMA statement</li>
 </ol>
 
-Lets explore these principles further.
+Let's explore these principles further.
