@@ -12,7 +12,7 @@
 **Data Extraction**
 
 <ul style="list-style-type:none">
-<li><i>Data from each study were extracted by 1 of 6 experienced methodologists and confirmed by at least 1 other. Extracted data included study, participant, and ARAS characteristics; interventions; outcomes; and study design... 
+<li><i>Data from each study were extracted by 1 of 6 experienced methodologists and confirmed by at least 1 other. Extracted data included study, participant, and ARAS characteristics; interventions; outcomes; and study design...<br> 
 <br>
 Two reviewers independently assessed risk of bias at the study level, with notation of specific outcomes at increased risk of bias... Two reviewers independently categorized the strength of evidence across studies as high, moderate, or low for each outcome category...</i></li></ul>
 
