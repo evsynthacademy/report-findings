@@ -18,3 +18,7 @@ Here’s how CESH did that in its systematic review of management strategies for
 <ol>
 <li>Overall, the evidence does not support a benefit with PTRAS over medical therapy alone in most patients with ARAS. </li>
 <li>Observational studies, however, suggest that “high-risk” patients—specifically, those with worse kidney function, higher blood pressure, or flash pulmonary edema—may be more likely to have improved kidney function and blood pressure with PTRAS.</li></ol>
+
+Want to see an example of a discussion that follows these steps? Read the discussion from  CESH’s article on the <a href = "http://annals.org/aim/fullarticle/2543272/comparative-effectiveness-management-strategies-renal-artery-stenosis-updated-systematic-review">Comparative Effectiveness of Management Strategies for Renal Artery Stenosis</a>. 
+
+Try to find all the components of a good discussion. In what ways might a systematic review report deviate from this formula? Does the Renal Artery Stenosis article miss any steps?
