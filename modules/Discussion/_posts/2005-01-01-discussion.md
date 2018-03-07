@@ -11,7 +11,7 @@ In other words, the purpose of your discussion is to explain the nature and impo
 How? Just follow these steps:
 
 
-<h4>Summarize</h4>Summarize the study and the main results<br>
+<h5>Summarize</h5>Summarize the study and the main results<br>
 
 <h4>Interpret</h4>Interpret the results and suggest an explanation for them<br>
 
