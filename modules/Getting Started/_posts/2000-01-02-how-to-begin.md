@@ -16,13 +16,13 @@ Who counts as an author of your report? It’s best to establish your official a
 **3. Think visually**<br>
 A successful report relies on clear visuals as well as clear language. If you have access to a graphics department, ask for help designing your tables and charts so they can be as instructive as possible. If you can’t get graphic design help, be sure to think carefully about how you display your information. Don’t simply cut and paste the images that you used to analyze your data. Think about how the information could be organized for readers who didn’t conduct the research.  
 
-**4. Protect your credibility**<br>
+**4. Protect your credibility: check your work!**<br>
 Whether it feels fair or not, readers will judge you and your academic abilities based on the quality of your report. Your main objective is to prove that your research and conclusions can be trusted. In this case, details really matter. A references list littered with errors or a table with data that doesn’t match the text makes your work look sloppy and unreliable. So be sure to give yourself enough time to take a second look at every last detail before you submit your report for publication.  
 
 **5. Read the PRISMA statement**<br>
-In 2005, a group of systematic review experts met in Ottawa, Canada to develop a revised set of standards for reporting systematic reviews. Four years later, they published PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses). PRISMA contains a 27 item checklist and a flow diagram, all created to improve the way researchers report systematic reviews and meta-analysis. You can read the PRISMA statement here. 
+In 2005, a group of systematic review experts developed a revised set of standards for reporting systematic reviews. Four years later, they published PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses). PRISMA contains a 27 item checklist and a flow diagram, all created to improve the way researchers report systematic reviews and meta-analysis. You can read the PRISMA statement here. 
 
-One more thing to keep in mind: journal editors say the ideal scientific article is new, true (or valid), important and clearly defined. Let these be your guiding principles as you’re pulling together your report. 
+One more thing to keep in mind: journal editors say the ideal scientific article contains new information, is valid, important, and clearly defined. Let these be your guiding principles as you’re pulling together your report. 
 
 Now, let’s dig into the elements of your article, starting with the title.
 
