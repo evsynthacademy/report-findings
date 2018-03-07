@@ -11,9 +11,9 @@ In other words, the purpose of your discussion is to explain the nature and impo
 How? Just follow these steps:
 
 
-<b><h4>Summarize</h4></b><br>Summarize the study and the main results<br>
+<h4>Summarize</h4><br>Summarize the study and the main results<br>
 
-<b><h3>Interpret</h3></b><br>Interpret the results and suggest an explanation for them<br>
+<h3>Interpret</h3><br>Interpret the results and suggest an explanation for them<br>
 
 <b>Compare</b><br>Compare the results with what else is known about the problem (this might involve referencing earlier systematic reviews)<br>
 
