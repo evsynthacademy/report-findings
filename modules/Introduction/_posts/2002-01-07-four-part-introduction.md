@@ -3,7 +3,7 @@
 ---
 
 ## Four Part Introduction
-
+<br>
 Just string those statements together, and you have a much clearer introduction:
 <br><br>
 <ul style="list-style-type:none">
