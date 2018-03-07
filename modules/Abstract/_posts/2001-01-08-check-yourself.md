@@ -4,7 +4,7 @@
 
 ## Check Yourself
 
-You might think researchers are extremely careful when they write their abstracts. Unfortunately, the data show there’s a lot of room for improvement. A range of researchers have taken a look at the quality of published abstracts, and they’ve found a lot of problems. According to that body of research: 
+You might think researchers are extremely careful when they write their abstracts. Unfortunately, the data show there’s a lot of room for improvement. A range of researchers have taken a look at the quality of published abstracts, and they’ve found a lot of problems. According to an analysis by Tom Lang in his book <i><a href = "https://www.acppress-ebooks.org/product/how-to-write-publish-present-in-health-sciences">How to Write, Publish, and Present in the Health Sciences</a></i>: 
 
 As many as 80% of abstracts are missing key information on topics such as:
 
