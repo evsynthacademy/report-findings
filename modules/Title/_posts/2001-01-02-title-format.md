@@ -8,6 +8,6 @@ There are a few different types of journal titles, but because you’re conducti
 
 Here’s an example of an informative title:
 
-<h4><i><center>Comparative Effectiveness of Management Strategies for Renal Artery Stenosis: An Updated Systematic Review</center></i></h4>
+<h4><i>Comparative Effectiveness of Management Strategies for Renal Artery Stenosis: An Updated Systematic Review</i></h4>
 
 So what should you include in your title? It all goes back to PICO (D).

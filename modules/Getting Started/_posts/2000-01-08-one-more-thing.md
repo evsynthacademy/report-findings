@@ -12,7 +12,7 @@ Now, let’s dig into the elements of your article, starting with the title.
 			<div class="title">
 				Next module:
 			</div>
-			<a rel="next" class="next" href="{{ site.baseurl }}/modules/title-abstract/title-abstract/"> {{ next }} TITLE-ABSTRACT
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/title/title/"> {{ next }} TITLE
 			</a>
 		</div>
 
