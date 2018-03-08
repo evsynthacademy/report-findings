@@ -15,7 +15,7 @@ Feeling good about your title? Great. Let’s move on to writing your abstract.
 			<div class="title">
 				Next module:
 			</div>
-			<a rel="next" class="next" href="{{ site.baseurl }}/modules/abstact/abstract"> {{ next }} ABSTRACT
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/abstract/abstract"> {{ next }} ABSTRACT
 			</a>
 		</div>
 
