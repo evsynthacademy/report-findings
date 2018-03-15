@@ -1,5 +1,5 @@
 ---
-  title: "Do it Yourself: Acknowledgements"
+  title: "Do it Yourself: Conflict"
 ---
 
 ##  Do it Yourself: Acknowledgements and Conflicts of Interest
