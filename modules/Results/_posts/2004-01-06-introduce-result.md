@@ -1,5 +1,5 @@
 ---
-  title: "Introduce a Result, Not a Figure or Table"
+  title: "Introduce a Result"
 ---
 
 ## Introduce a Result, Not a Figure or Table

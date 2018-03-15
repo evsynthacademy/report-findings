@@ -10,6 +10,6 @@ All systematic reviews should include a forest plot. It’s designed to visualiz
 <img src="{{site.baseurl}}/img/forest.png" >
 </center>
 
-To learn more about forest plots and how to read them, watch this video.
+To learn more about forest plots and how to read them, watch this video. [Coming Soon]
 
 

@@ -1,5 +1,5 @@
 ---
-  title: "Activity + Forecasting Statements"
+  title: "Activity + Forecasting"
 ---
 
 ##  Activity + Forecasting Statements
