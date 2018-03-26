@@ -25,7 +25,7 @@ Here’s how the ARAS study authors described their data sources:
 <ul style="list-style-type:none">
 <li><i>We searched MEDLINE and EMBASE from January 2007 through 16 March 2016 and the Cochrane Central Register of Controlled Trials and the Cochrane Database
 of Systematic Reviews through the fourth quarter of 2015… 
-<br>
+<br><br>
 We supplemented the search with studies in the U.S. Food and Drug Administration database, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform; recent systematic reviews; and proceedings of national renal, vascular surgery, and urology conferences from 2012 through 2014. We solicited additional citations from our expert panel and from manufacturers. 
 </i></li></ul>
 

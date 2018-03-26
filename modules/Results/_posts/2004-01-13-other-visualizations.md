@@ -4,7 +4,7 @@
 
 ## Other Visualizations
 
-In our Meta-Analysis course, we go into more detail about the various analytic techniques you can use to combine and display your findings.
+In our Meta-Analysis course [Coming Soon], we go into more detail about the various analytic techniques you can use to combine and display your findings.
 
 Those include Subgroup analysis, which is a forest plot broken into categories.
 
