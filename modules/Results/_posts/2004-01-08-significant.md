@@ -1,5 +1,5 @@
 ---
-  title: "Be Careful About the Word 'Significant'"
+  title: "Be Careful About 'Significant'"
 ---
 
 ## Be Careful About the Word 'Significant'

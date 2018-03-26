@@ -1,5 +1,5 @@
 ---
-  title: "Do it Yourself: Write Your Discussion"
+  title: "Do it Yourself: Write"
 ---
 
 ##  Do it Yourself: Write Your Discussion

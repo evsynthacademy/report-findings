@@ -1,5 +1,5 @@
 ---
-  title: "Use Descriptive Names, Not Codes"
+  title: "Use Descriptive Names"
 ---
 
 ## Use Descriptive Names, Not Codes
